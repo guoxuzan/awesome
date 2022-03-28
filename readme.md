@@ -3,7 +3,7 @@
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
+- [Front-End Development gxz](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
